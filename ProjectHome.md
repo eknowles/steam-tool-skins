@@ -1,0 +1,1 @@
+data found here are to be interpreted by steam tools using it's built in parser. any issues please raise them here.
